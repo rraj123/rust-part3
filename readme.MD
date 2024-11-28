@@ -1,6 +1,9 @@
 # Rust Part 3 - Added rand Package
 
 
+![Many instances](images/package.png)
+
+
 ![Many instances](images/rand_crate.png)
 
 ![Struct](images/rand_crate2.png)
@@ -22,3 +25,4 @@
 ![Declaration](images/rand_use_crate6.png)
 ![Declaration](images/rand_use_crate7.png)
 
+![Declaration](images/types_of_numbers.png)
