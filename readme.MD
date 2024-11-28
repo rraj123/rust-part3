@@ -1,4 +1,4 @@
-# Rust Part 2
+# Rust Part 3 - Added rand Package
 
 
 ![Many instances](images/rand_crate.png)
