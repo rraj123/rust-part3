@@ -1,26 +1,24 @@
 # Rust Part 2
 
 
-#### Inherent implementation 
-![Many instances](images/impl.png)
+![Many instances](images/rand_crate.png)
 
-### Inherent implementation
-![Struct](images/inherent_implementation.png)
+![Struct](images/rand_crate2.png)
 
-
-#### Inherent implementation 2
-![Many instances](images/impl2.png)
-
-#### self
-![Declaration](images/self.png)
+![Many instances](images/rand_crate3.png)
 
 
-#### Functions vs methods
-![Declaration](images/funs_methods.png)
-
-#### Implicit return
-![Declaration](images/implicit_return.png)
+![Declaration](images/rand_crate4.png)
 
 
-#### Implicit return2
-![Declaration](images/implicit_return2.png)
+
+![Declaration](images/rand_crate5.png)
+
+![Declaration](images/rand_use_crate1.png)
+![Declaration](images/rand_use_crate2.png)
+![Declaration](images/rand_use_crate3.png)
+![Declaration](images/rand_use_crate4.png)
+![Declaration](images/rand_use_crate5.png)
+![Declaration](images/rand_use_crate6.png)
+![Declaration](images/rand_use_crate7.png)
+
